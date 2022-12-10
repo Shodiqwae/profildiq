@@ -1,0 +1,70 @@
+body{
+    background-color: #F0E9D2;
+    color: #C58940;
+}
+
+.profil {
+    text-align: center;
+    font-family:  'Hind Siliguri', sans-serif;
+}
+.profil h1 {
+    font-size: 40px;
+}
+.gambar-profil {
+    border-radius: 50%;
+    margin-top: 40px;
+}
+.cerita h3{
+    font-size: 35px;
+    margin-left: 10px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 22%;
+}
+.cerita1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #181D31;
+    margin-top: 35px;
+    margin-left: 70px;
+    font-size: 18px;
+}
+.gambar-cerita {
+    width: 210px;
+    height: 220px;
+    float: right;
+    margin-right: 150px;
+    border-radius: 20%;
+}
+/* Web */
+.web {
+    margin-top: 20%;
+    font-size: 35px;
+    margin-left: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.isi-web  {
+    padding: 10px 10px;
+    width: 29%;
+    border-radius: 10px;
+    transition: all 0.4s;
+    border: 1px solid;
+    margin-left: 600px;
+    background-color: #181D31;
+}
+.isi-web h4 {
+    color: black;
+    margin-left: 10px;
+    line-height: 10px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+/* halaman penutup */
+footer {
+    background-color: #263159;
+    padding: 5%;
+    margin-top: 10%;
+}
+footer h4 {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 24px;
+}
